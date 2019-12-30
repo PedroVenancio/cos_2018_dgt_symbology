@@ -1,6 +1,9 @@
-# Simbologia da Carta de Uso e Ocupação do Solo 2018 para QGIS 3.4+
+Simbologia da Carta de Uso e Ocupação do Solo 2018 para QGIS 3.4+
+--------------------------------------
 
 Ficheiro QML com a simbologia da Carta de Uso e Ocupação do Solo 2018, publicada pela Direção-Geral do Território.
+
+[Pré-visualização da simbologia em QGIS 3.10.1](preview_cos_2018.png)
 
 O GeoPackage que inclui a cobertura integral de Portugal Continental e a nomenclatura completa dos 4 níveis de desagregação pode ser obtido em:
 https://cld.pt/dl/download/04dc0fe0-6726-4a19-a4c4-0c94c21ccb8e/COS_2018_v1_PT_Continental.zip
