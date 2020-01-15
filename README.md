@@ -6,7 +6,7 @@ Ficheiro QML com a simbologia da Carta de Uso e Ocupação do Solo 2018, publica
 ![Pré-visualização da simbologia em QGIS 3.10.1](preview_cos_2018.png)
 
 O GeoPackage que inclui a cobertura integral de Portugal Continental e a nomenclatura completa dos 4 níveis de desagregação pode ser obtido em:
-https://cld.pt/dl/download/04dc0fe0-6726-4a19-a4c4-0c94c21ccb8e/COS_2018_v1_PT_Continental.zip
+https://cld.pt/dl/download/f784f744-9ceb-4b61-a40c-67475f346b46/COS_2018_v1_1_PT_Continental.zip
 
 A simbologia foi criada com base no serviço WMS disponibilizado pela DGT em: 
 http://mapas.dgterritorio.pt/wms-inspire/cos2018v1?service=WMS&REQUEST=GetCapabilities&VERSION=1.3.0
